@@ -23,7 +23,7 @@ from django.shortcuts import render
 from employee.models import Employee
 
 
-
+# asdgyyasgfyewgfy
 def bulk_create_from_data(request):
     employee = [
         {'eid': '5', 'ename': 'John Doe', 'eemail': 'john@example.com', 'ephone': '1234567890', 'eage': 30},
